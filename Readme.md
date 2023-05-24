@@ -51,7 +51,7 @@ async function init() {
 ```
 /
 ├── dist/
-│   └── hoge-meshopt.glb // compressed gltf file
+│   └── hoge-meshopt.glb // compressed glb file
 ├── node_modules/
 ├── src/
 │   └── hoge.gltf // before compression
@@ -71,3 +71,7 @@ This is a site where you can check if the glb and gltf files are displayed corre
 ### Package
 
 - [gltfpack](https://www.npmjs.com/package/gltfpack)
+
+### Reference Site
+
+- [Node.js で glTF モデルを圧縮して three.js で読み込む（DRACO/meshoptimizer）](https://qiita.com/watabo_shi/items/ba6c76f4158f827f69ed)

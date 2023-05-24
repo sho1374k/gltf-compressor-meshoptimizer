@@ -1,0 +1,16 @@
+{
+  "name": "gltf-compressor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "meshopt": "node compress-meshopt.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gltfpack": "^0.19.1",
+    "fs-extra": "^9.1.0",
+    "glob": "^7.1.6",
+    "gltf-pipeline": "^3.0.2",
+    "path": "^0.12.7"
+  }
+}

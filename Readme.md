@@ -1,4 +1,4 @@
-# glTF Compressor
+# glTF Meshoptimizer Compressor
 
 ## 🖊️ ~ Overview
 
